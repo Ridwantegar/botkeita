@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"5594dfbaf28bced2abe3d6f49900561d","lockfileHash":"6b82b7e9ded657c69c33c8be84fa0753","guessedImports":["ms","cpu-stat","shoukaku","kazagumo-spotify","dotenv","discord.js","moment","mongoose","lodash","chalk","kazagumo","node-superfetch"],"guessedImportsHash":"e58de67f7190db6468225e0cdcfd544a"}}}
